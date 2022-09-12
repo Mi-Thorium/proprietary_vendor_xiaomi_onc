@@ -76,6 +76,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onc/proprietary/vendor/lib/libarcsoft_beautyshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_beautyshot.so \
     vendor/xiaomi/onc/proprietary/vendor/lib/libarcsoft_dualcam_refocus.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_dualcam_refocus.so \
     vendor/xiaomi/onc/proprietary/vendor/lib/libarcsoft_high_dynamic_range.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_high_dynamic_range.so \
+    vendor/xiaomi/onc/proprietary/vendor/lib/libc++_shared.so:$(TARGET_COPY_OUT_VENDOR)/lib/libc++_shared.so \
     vendor/xiaomi/onc/proprietary/vendor/lib/libcamera_scene.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcamera_scene.so \
     vendor/xiaomi/onc/proprietary/vendor/lib/libchromatix_onc_imx486_sunny_India_ii_bokeh_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_onc_imx486_sunny_India_ii_bokeh_preview_3a.so \
     vendor/xiaomi/onc/proprietary/vendor/lib/libchromatix_onc_imx486_sunny_India_ii_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_onc_imx486_sunny_India_ii_common.so \
